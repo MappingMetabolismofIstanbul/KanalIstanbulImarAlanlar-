@@ -219,34 +219,8 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-          {
-            id: '8',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: ',',
-            description: '',
-            location: {
-                center: [28.689,41.240],
-                zoom: 13,
-                pitch: 10,
-                bearing: 0,
-               
-                // flyTo additional controls-
-                // These options control the flight curve, making it move
-                // slowly and zoom out almost completely before starting
-                // to pan.
-                //speed: 2, // make the flying slow
-                //curve: 0, // change the speed at which it zooms out
-            },
-             mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
          {
-            id: '9',
+            id: '8',
             alignment: 'centered',
             hidden: false,
             title: '',
@@ -272,7 +246,7 @@ var config = {
             onChapterExit: []
         },
          {
-            id: '10',
+            id: '9',
             alignment: 'left',
             hidden: false,
             title: '',
@@ -298,7 +272,7 @@ var config = {
             onChapterExit: []
         },
          {
-            id: '11',
+            id: '10',
             alignment: 'centered',
             hidden: false,
             title: '',
@@ -323,7 +297,7 @@ var config = {
             onChapterExit: []
         }, 
         {
-            id: '12',
+            id: '11',
             alignment: 'centered',
             hidden: false,
             title: '',
@@ -348,7 +322,7 @@ var config = {
             onChapterExit: []
         },
           {
-            id: '13',
+            id: '12',
             alignment: 'centered',
             hidden: false,
             title: '',
@@ -373,7 +347,7 @@ var config = {
             onChapterExit: []
         }, 
          {
-            id: '14',
+            id: '13',
             alignment: 'right',
             hidden: false,
             title: '',
@@ -398,7 +372,7 @@ var config = {
             onChapterExit: []
         },
           {
-            id: '15',
+            id: '14',
             alignment: 'centered',
             hidden: false,
             title: '',
@@ -423,7 +397,7 @@ var config = {
             onChapterExit: []
         },
          {
-            id: '16',
+            id: '15',
             alignment: 'right',
             hidden: false,
             title: '',
@@ -448,7 +422,7 @@ var config = {
             onChapterExit: []
         }, 
         {
-            id: '17',
+            id: '16',
             alignment: 'centered',
             hidden: false,
             title: '',
